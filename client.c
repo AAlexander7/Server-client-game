@@ -1,4 +1,4 @@
-//Zhiyang Huang        105202943
+
 
 #include <stdio.h>
 #include <stdlib.h>
